@@ -1,1 +1,7 @@
-TEST
+1.minimax（本组采购，推荐优先使用）
+apikey：sk-api-Zy9dJHdarsTSydJ1enpu-ITN3ujUBs1y5L0nuAPrjRx6k9I0xTxjq8pmbrJTomzcs4pMGIEi8Eo5TchNEGuVG9aICAglt5TJ5eVgMl94jkQPAaK2bkf69Sk
+使用方式：opencode输入/connect，选择MiniMax Coding Plan(minimax.com)，输入apikey，然后选择MiniMax-M2.5-highspeed
+
+2.glm-5（蹭其他组的，容易被流控）
+apikey：eb690b69c342417fb3a5900b3cce2d21.WBNnTpXPHjOQldQN
+使用方式：opencode输入/connect，选择Zhipu AI Coding Plan，输入apikey，然后选择GLM-5
